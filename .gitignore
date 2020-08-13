@@ -1,0 +1,4 @@
+*.sdf
+ipch/
+*.suo
+Serial/Serial.vcxproj.user
